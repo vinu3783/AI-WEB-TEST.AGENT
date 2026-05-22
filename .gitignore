@@ -6,7 +6,7 @@ __pycache__/
 .venv
 env/
 venv/
-PROJENV310/
+projenv310/
 
 # Test Artifacts
 tests/videos/
@@ -14,6 +14,15 @@ tests/screenshots/
 tests/*.html
 tests/*.json
 tests/*.mp4
+tests/*.webm
+tests/*.pdf
+ui/tests/videos/
+ui/tests/screenshots/
+ui/tests/*.html
+ui/tests/*.json
+ui/tests/*.mp4
+ui/tests/*.webm
+ui/tests/*.pdf
 
 # IDEs
 .vscode/
